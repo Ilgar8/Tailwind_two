@@ -1,0 +1,1 @@
+*** npm run watch/ tailwindi ise salmaq ucun
